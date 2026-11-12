@@ -1,0 +1,2 @@
+session,start_time,end_time,duration_min,start_v,end_v,max_v,readings,longest_gap_s,next_state,warning
+1,2026-11-11 17:20:48.344,2026-11-11 17:34:37.345,13.82,29.02,29.27,29.27,830,1.0,UNDOCKING,

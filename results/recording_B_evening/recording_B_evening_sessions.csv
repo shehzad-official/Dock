@@ -1,0 +1,2 @@
+session,start_time,end_time,duration_min,start_v,end_v,max_v,readings,longest_gap_s,next_state,warning
+1,17:51:28.369,18:05:18.633,13.84,26.99,29.41,29.41,3648,2.5,UNDOCKING,
